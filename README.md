@@ -10,10 +10,10 @@ and test set - 63 images.
 Total images in the dataset = 627<br>
 This dataset contains images of Ambulances, Buses, Trucks, Cars and Motorcycles.
 
-The **main.ipynb** file is the notebook containing necessary codes, descriptions and visualizations. It is a Colab notebook. <br>
-The **Dataset** folder contains the dataset sans duplicates generated from roboflow. <br>
-The **Train/vehicle5** folder contains generated weights, plots (F1 curve, precision and recall curves, confusion matrix etc.) from training the train set using the YOLOv5s architecture. <br>
-The **Results** folder contains the predicted images in the *detect* subfolder, *count.csv* (contains count of different classes in a single image), *result.csv* (DataFrame of predicted labels and bounding boxes).
+- The **main.ipynb** file is the notebook containing necessary codes, descriptions and visualizations. It is a Colab notebook. <br>
+- The **Dataset** folder contains the dataset sans duplicates generated from roboflow. <br>
+- The **Train/vehicle5** folder contains generated weights, plots (F1 curve, precision and recall curves, confusion matrix etc.) from training the train set using the YOLOv5s architecture. <br>
+- The **Results** folder contains the predicted images in the *detect* subfolder, *count.csv* (contains count of different classes in a single image), *result.csv* (DataFrame of predicted labels and bounding boxes).
 
 ![image](https://user-images.githubusercontent.com/63100531/125672663-f834d701-4c9d-44fe-9041-01b238ab2830.png)
 *Figure: Training metrics*
