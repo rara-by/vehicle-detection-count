@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/Projetcs/Animo.ai/train
+val: /content/drive/MyDrive/Projetcs/Animo.ai/valid
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
